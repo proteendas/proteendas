@@ -28,7 +28,7 @@
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/proteen-das-95bb3020b/
+- LinkedIn: https://www.linkedin.com/in/proteen/
 - Email: prot.das15@gmail.com
 
 Feel free to explore my repositories and reach out to me for any collaboration or discussion opportunities. Let's connect and build amazing things together!
