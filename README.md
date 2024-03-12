@@ -8,11 +8,11 @@
 ## Skills
 
 - **Programming Languages**: 
-  - Java, Python, C, C++
+  - Java, Python, C, C++, Dart
 - **Web Development**: 
-  - HTML, CSS, JavaScript
+  - HTML, CSS, JavaScript, ReactJS
 - **Mobile App Development**: 
-  - Flutter, React Native
+  - Flutter
 - **Database**: 
   - MySQL, MongoDB
 - **Version Control**: 
