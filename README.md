@@ -1,8 +1,8 @@
 # Portfolio
 
 - Hi! I’m Proteen. 👋
-- Currently a Final Year Computer Science and Business Systems undergrad at Heritage Institute of Technology, Kolkata.
-- I work on **Mobile App Development** in **Flutter/Firebase**.
+- Currently a I'm a Junior Engineer specializing in Frontend Development.
+- I work on **Website and Mobile App Development**.
 - Building **Web and Mobile Applications** is something that I love to do!
 
 ## Skills
@@ -10,7 +10,7 @@
 - **Programming Languages**: 
   - Java, Python, C, C++, Dart
 - **Web Development**: 
-  - HTML, CSS, JavaScript, ReactJS
+  - HTML, CSS, JavaScript, ReactJS, NextJS, AEM, Strapi, Contentful
 - **Mobile App Development**: 
   - Flutter
 - **Database**: 
