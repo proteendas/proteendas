@@ -23,18 +23,40 @@ I'm a **Fullstack Developer & Frontend Specialist** building responsive, high-pe
 - 🏆 **Excellence Achiever Award Winner** — Q3 2024, Mindsprint Digital
 
 ***
-
 ## 🛠️ Tech Stack
 
-### Languages & UI: JavaScript, TypeScript, C, Java, Python, Dart, HTML, CSS, Tailwind
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,c,java,python,dart,html,css)
 
-### Frameworks & Libraries: ReactJS, NextJS, Flutter, PHP, Spring Boot, Firebase
+### 🎨 UI & Styling
+![UI](https://skillicons.dev/icons?i=tailwind,bootstrap)
 
-### CMS Platforms: Adobe AEM, Adobe EDS, Contentful, Strapi
+### ⚙️ Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,flutter,spring)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### Cloud, Database & AI: Azure, Oracle Cloud, MySQL, LangChain
+### 📦 CMS Platforms
+![Adobe AEM](https://img.shields.io/badge/Adobe%20AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe EDS](https://img.shields.io/badge/Adobe%20EDS-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 
-### Core CS & Additional Skills: DSA, OOPs, DBMS, OS, Computer Networks, API Integration, Agile, Responsive Design
+### ☁️ Cloud, Database & AI
+![Cloud & DB](https://skillicons.dev/icons?i=azure,mysql)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### 🧠 Core CS & Additional Skills
+![CS Skills](https://skillicons.dev/icons?i=git,docker,linux,postman)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-007396?style=for-the-badge&logo=java&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![OS](https://img.shields.io/badge/OS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networks](https://img.shields.io/badge/Computer%20Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![API](https://img.shields.io/badge/API%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-38BDF8?style=for-the-badge&logo=css3&logoColor=white)
 
 ***
 
