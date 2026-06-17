@@ -74,7 +74,6 @@ I'm a **Fullstack Developer & Frontend Specialist** building responsive, high-pe
 <div align="center">
 
 <!-- Contribution Graph -->
-[
 
 <!-- Streak + Stats side by side -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=proteendas&theme=tokyonight&hide_border=true" height="165" />
@@ -84,7 +83,6 @@ I'm a **Fullstack Developer & Frontend Specialist** building responsive, high-pe
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proteendas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <!-- Profile Trophy -->
-[
 
 </div>
 
@@ -97,12 +95,9 @@ I'm a **Fullstack Developer & Frontend Specialist** building responsive, high-pe
 
 <div align="center">
 
-[
-
 </div>
 
 **Highlights from my work:**
-- 🌐 **Enterprise Websites** — [olamagri.com](https://www.olamagri.com) · [ofi.com](https://www.ofi.com) · [mindsprint.com](https://www.mindsprint.com)
 - 🛒 **E-Commerce** — Full-stack React + Spring Boot + MySQL platform with role-based auth
 - 💼 **Job Portal** — Multi-role dashboards with job posting & candidate screening
 - 🏥 **Hospital Management** — Patient booking & doctor prescription system
