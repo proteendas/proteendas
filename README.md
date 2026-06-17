@@ -26,35 +26,15 @@ I'm a **Fullstack Developer & Frontend Specialist** building responsive, high-pe
 
 ## 🛠️ Tech Stack
 
-### Languages & UI
+### Languages & UI: JavaScript, TypeScript, C, Java, Python, Dart, HTML, CSS, Tailwind
 
+### Frameworks & Libraries: ReactJS, NextJS, Flutter, PHP, Spring Boot, Firebase
 
+### CMS Platforms: Adobe AEM, Adobe EDS, Contentful, Strapi
 
+### Cloud, Database & AI: Azure, Oracle Cloud, MySQL, LangChain
 
-
-
-
-
-
-
-### Frameworks & Libraries
-
-
-
-
-
-
-### CMS Platforms
-
-
-
-
-### Cloud, Database & AI
-
-
-
-
-
+### Core CS & Additional Skills: DSA, OOPs, DBMS, OS, Computer Networks, API Integration, Agile, Responsive Design
 
 ***
 
